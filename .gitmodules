@@ -25,3 +25,9 @@
 [submodule "ansible_deployments"]
 	path = ansible_deployments
 	url = https://github.com/gustavomoraes-ufrj/Ansible_Deployments
+[submodule "pentesterAcademyCode"]
+	path = pentesterAcademyCode
+	url = https://github.com/gustavomoraes-ufrj/PentesterAcademyCode
+[submodule "itp-u3-c2-football-dictionaries"]
+	path = itp-u3-c2-football-dictionaries
+	url = https://github.com/gustavomoraes-ufrj/itp-u3-c2-football-dictionaries
