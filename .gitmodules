@@ -4,3 +4,12 @@
 [submodule "shell"]
 	path = shell
 	url = https://github.com/gustavomoraes-ufrj/Shell
+[submodule "k8s"]
+	path = k8s
+	url = https://github.com/gustavomoraes-ufrj/k8s
+[submodule "ansible"]
+	path = ansible
+	url = https://github.com/gustavomoraes-ufrj/ansible
+[submodule "rhce9"]
+	path = rhce9
+	url = https://github.com/gustavomoraes-ufrj/rhce9
