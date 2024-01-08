@@ -13,3 +13,12 @@
 [submodule "rhce9"]
 	path = rhce9
 	url = https://github.com/gustavomoraes-ufrj/rhce9
+[submodule "lesson18lab"]
+	path = lesson18lab
+	url = https://github.com/gustavomoraes-ufrj/lesson18lab
+[submodule "geekUniversity"]
+	path = geekUniversity
+	url = https://github.com/gustavomoraes-ufrj/Python_GeekUniversity
+[submodule "python_INE"]
+	path = python_INE
+	url = https://github.com/gustavomoraes-ufrj/Python_INE
