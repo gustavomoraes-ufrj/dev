@@ -22,3 +22,6 @@
 [submodule "python_INE"]
 	path = python_INE
 	url = https://github.com/gustavomoraes-ufrj/Python_INE
+[submodule "ansible_deployments"]
+	path = ansible_deployments
+	url = https://github.com/gustavomoraes-ufrj/Ansible_Deployments
