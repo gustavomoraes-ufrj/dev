@@ -1,0 +1,3 @@
+[submodule "mygitops"]
+	path = mygitops
+	url = https://github.com/gustavomoraes-ufrj/mygitops
