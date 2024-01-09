@@ -34,3 +34,6 @@
 [submodule "udemyDockerMastery"]
 	path = udemyDockerMastery
 	url = https://github.com/BretFisher/udemy-docker-mastery.git
+[submodule "mycontainers"]
+	path = mycontainers
+	url = https://github.com/gustavomoraes-ufrj/mycontainers
